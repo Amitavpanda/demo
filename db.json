@@ -10,7 +10,28 @@
     { "id": 8, "name": "Olivia Brock", "branch": "Electrical","shift": "Morning" },
     { "id": 9, "name": "Daisy Kobe", "branch": "Mechanical","shift": "Morning" },
     { "id": 10, "name": "Steve Jobs", "branch": "Electrical","shift": "Morning" },
-    
+    { "id": 5, "name": "Rohit Sharma", "branch": "Electrical","shift": "Morning" },
+    { "id": 6, "name": "Amelia Griffin", "branch": "Mechanical","shift": "Morning" },
+    { "id": 7, "name": "Dimple Lopes", "branch": "Electrical","shift": "Morning" },
+    { "id": 8, "name": "Olivia Brock", "branch": "Electrical","shift": "Morning" },
+    { "id": 9, "name": "Daisy Kobe", "branch": "Mechanical","shift": "Morning" },
+    { "id": 10, "name": "Steve Jobs", "branch": "Electrical","shift": "Morning" },
+    { "id": 11, "name": "MS Dhoni", "branch": "Electrical","shift": "Morning" },
+    { "id": 12, "name": "Sophie Black", "branch": "Mechanical","shift": "Morning" },
+    { "id": 13, "name": "Emily Brennan", "branch": "Mechanical","shift": "Morning" },
+    { "id": 14, "name": "Olivia Brock", "branch": "Electrical","shift": "Morning" },
+    { "id": 15, "name": "Sundar Pichai", "branch": "Mechanical","shift": "Morning" },
+    { "id": 16, "name": "Bill Gates", "branch": "Electrical","shift": "Morning" },
+    { "id": 17, "name": "Chloe Cadwell", "branch": "Electrical","shift": "Morning" },
+    { "id": 18, "name": "Isabella Cage", "branch": "Mechanical","shift": "Morning" },
+    { "id": 19, "name": "Raju", "branch": "Mechanical","shift": "Morning" },
+    { "id": 20, "name": "Farhan", "branch": "Electrical","shift": "Morning" },
+    { "id": 21, "name": "Rancho", "branch": "Electrical","shift": "Morning" },
+    { "id": 22, "name": "Satyam", "branch": "Electrical","shift": "Morning" },
+    { "id": 23 "name": "Ashish", "branch": "Mechanical","shift": "Morning" },
+    { "id": 24, "name": "Shubhankar", "branch": "Mechanical","shift": "Morning" },
+    { "id": 25, "name": "Pinu", "branch": "Mechanical","shift": "Evening" },
+    { "id": 26, "name": "Sibam", "branch": "Electrical","shift": "Morning" }
     
 
 
