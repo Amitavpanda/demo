@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "name": "Amitav Panda", "branch": "Electrical", "MorningShiftDays":123 },
-    { "id": 2, "name": "Virat Kohli", "branch": "Mechanical", "MorningShiftDays":123 },
-    { "id": 3, "name": "Elon Musk", "branch": "Electrical", "MorningShiftDays":123 },
-    { "id": 4, "name": "Jeff Bezos", "branch": "Mechanical", "MorningShiftDays":123  }
+    { "id": 1, "name": "Amitav Panda", "branch": "Electrical", "MorningShiftDays":123 ,"EveningShiftDays": 242, "MorningLoginTime": 10:30, "MornigLogoutTime":20:30, "EveningLoginTime":20:30, "EveningLogoutTime":5:30, "MorningHours":1230, "EveningHours":2178, "TotalHours":3408},
+    { "id": 2, "name": "Virat Kohli", "branch": "Mechanical", "MorningShiftDays":123 , "EveningShiftDays": 242, "MorningLoginTime": 10:30, "MornigLogoutTime":20:30, "EveningLoginTime":20:30, "EveningLogoutTime":5:30, "MorningHours":1230, "EveningHours":2178, "TotalHours":3408 },
+    { "id": 3, "name": "Elon Musk", "branch": "Electrical", "MorningShiftDays":123 , "EveningShiftDays": 242, "MorningLoginTime": 10:30, "MornigLogoutTime":20:30, "EveningLoginTime":20:30, "EveningLogoutTime":5:30, "MorningHours":1230, "EveningHours":2178, "TotalHours":3408},
+    { "id": 4, "name": "Jeff Bezos", "branch": "Mechanical", "MorningShiftDays":123 , "EveningShiftDays": 242, "MorningLoginTime": 10:30, "MornigLogoutTime":20:30, "EveningLoginTime":20:30, "EveningLogoutTime":5:30, "MorningHours":1230, "EveningHours":2178, "TotalHours":3408}
   ]
 }
