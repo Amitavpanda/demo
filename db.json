@@ -1,11 +1,11 @@
 {
   "posts": [
-    { "id": 1, "name": "Amitav Panda", "branch": "Electrical", "shift": "Morning"},
-    { "id": 2, "name": "Virat Kohli", "branch": "Mechanical","shift": "Morning" },
-    { "id": 3, "name": "Elon Musk", "branch": "Electrical","shift": "Morning" },
-    { "id": 4, "name": "Jeff Bezos", "branch": "Mechanical","shift": "Morning" },
-    { "id": 5, "name": "Rohit Sharma", "branch": "Electrical","shift": "Morning" },
-    { "id": 6, "name": "Amelia Griffin", "branch": "Mechanical","shift": "Morning" }
+    { "id": 1, "name": "Amitav Panda", "branch": "Electrical" },
+    { "id": 2, "name": "Virat Kohli", "branch": "Mechanical" },
+    { "id": 3, "name": "Elon Musk", "branch": "Electrical" },
+    { "id": 4, "name": "Jeff Bezos", "branch": "Mechanical" },
+    { "id": 5, "name": "Rohit Sharma", "branch": "Electrical" },
+    { "id": 6, "name": "Amelia Griffin", "branch": "Mechanical"}
 
 
   ]
