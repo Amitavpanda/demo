@@ -4,7 +4,12 @@
     { "id": 2, "name": "Virat Kohli", "branch": "Mechanical","shift": "Morning" },
     { "id": 3, "name": "Elon Musk", "branch": "Electrical","shift": "Morning" },
     { "id": 4, "name": "Jeff Bezos", "branch": "Mechanical","shift": "Morning" },
-    { "id": 5, "name": "Rohit Sharma", "branch": "Electrical","shift": "Morning" }
+    { "id": 5, "name": "Rohit Sharma", "branch": "Electrical","shift": "Morning" },
+    { "id": 6, "name": "Amelia Griffin", "branch": "Mechanical","shift": "Morning" },
+    { "id": 7, "name": "Dimple Lopes", "branch": "Electrical","shift": "Morning" },
+    { "id": 8, "name": "Olivia Brock", "branch": "Electrical","shift": "Morning" },
+    { "id": 9, "name": "Daisy Kobe", "branch": "Mechanical","shift": "Morning" },
+    { "id": 10, "name": "Steve Jobs", "branch": "Electrical","shift": "Morning" }
     
 
 
